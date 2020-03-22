@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T09:33:02.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="t6fkZvoqitG2JY5yien1" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T09:33:50.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="jjPiW_exhpTTUFAiKTMs" version="12.8.5" type="github">
   <diagram id="lcznnpOXp_Ttz94rvxGr" name="第 1 页">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -320,6 +320,9 @@
         </mxCell>
         <mxCell id="FH6hujt-m_msskHk3Pih-96" value="生成版本TAG" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1458.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FH6hujt-m_msskHk3Pih-99" value="在日常和预发&#xa;可自动触发" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1157" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
