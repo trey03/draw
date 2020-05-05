@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-05T10:56:11.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="8dDsPR8byAaE9YwUmygi" version="13.0.4" type="github">
+<mxfile host="www.draw.io" modified="2020-05-05T14:11:20.503Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="cpbHjrsLEx2D48T87iIU" version="13.0.4" type="github">
   <diagram id="kHOsYkVyVwjFpKKAKABI" name="第 1 页">
     <mxGraphModel dx="757" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="0n8tnhp_9VIdHqY5zVXV-65" value="商城" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="465" y="1265" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0n8tnhp_9VIdHqY5zVXV-66" value="资讯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="0n8tnhp_9VIdHqY5zVXV-66" value="互助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="535" y="1265" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0n8tnhp_9VIdHqY5zVXV-67" value="文旅" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
