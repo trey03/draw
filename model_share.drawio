@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-11T14:14:20.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="x0wI2Jg5EBm4fluHQ7zP" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-11T14:15:40.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="V_m3eHGB0miM-4AScKqg" version="13.4.2" type="github">
   <diagram id="yrUgU_JSewBg1FIRkKDX" name="第 1 页">
     <mxGraphModel dx="983" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
         <mxCell id="Ph_a5gmJEEygtL0ZU9nu-95" value="模型管理员训练" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="574" y="1392" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-97" value="共用模型" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#CCCCCC;fillColor=#E6E6E6;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-97" value="共用模型" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#A9C4EB;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="219" y="1387" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
