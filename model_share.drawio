@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-11T10:12:57.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="yOHBEghl5lK998Dg7b5n" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-11T10:17:24.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="zI4DodKlWjh8QOxr9zSz" version="13.4.2" type="github">
   <diagram id="yrUgU_JSewBg1FIRkKDX" name="第 1 页">
     <mxGraphModel dx="983" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="Ph_a5gmJEEygtL0ZU9nu-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ph_a5gmJEEygtL0ZU9nu-23">
           <mxGeometry x="45" y="290" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-26" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;7 引用共享模型&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.014;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ph_a5gmJEEygtL0ZU9nu-25">
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-26" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;7 引用共享模型&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0.014;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;endFill=0;" edge="1" parent="1" target="Ph_a5gmJEEygtL0ZU9nu-25">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="215" y="455.5" as="sourcePoint" />
             <mxPoint x="650" y="456" as="targetPoint" />
@@ -248,6 +248,33 @@
               <mxPoint x="230.38" y="796.72" />
             </Array>
             <mxPoint x="6" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-62" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-63" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="Ph_a5gmJEEygtL0ZU9nu-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="300" as="sourcePoint" />
+            <mxPoint x="200" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-64" value="使用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="390" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-65" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;entryX=0.481;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ph_a5gmJEEygtL0ZU9nu-64" target="Ph_a5gmJEEygtL0ZU9nu-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="560" as="sourcePoint" />
+            <mxPoint x="810" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-68" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph_a5gmJEEygtL0ZU9nu-69" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="659.6600000000001" as="sourcePoint" />
+            <mxPoint x="205" y="659.6600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
