@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T02:34:24.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="MEfhLAmL-p6CPT09B3gT" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T02:35:28.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vmcbG7-h-xwl7OATvjRf" version="17.3.0" type="github">
   <diagram id="qBD8uF-JfwvzA7IrNaju" name="第 1 页">
     <mxGraphModel dx="1554" dy="994" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
             <mxPoint x="498" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRqmqo4FKYT-GxwhH9rx-27" value="Monitor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CRqmqo4FKYT-GxwhH9rx-27" value="Log&lt;br&gt;Monitor&lt;br&gt;Alert" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="688.5" y="212" width="70" height="270" as="geometry" />
         </mxCell>
         <mxCell id="CRqmqo4FKYT-GxwhH9rx-28" value="SaaS&lt;br&gt;Console" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
